@@ -1,2 +1,2 @@
-# basic
+# Low level project
 Starting project
